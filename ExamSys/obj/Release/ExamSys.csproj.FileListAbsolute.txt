@@ -1,0 +1,17 @@
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\bin\Release\ExamSys.exe.config
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\bin\Release\ExamSys.exe
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\bin\Release\ExamSys.pdb
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\bin\Release\MaterialSkin.dll
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.loadingForm.resources
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.Properties.Resources.resources
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.csproj.GenerateResource.Cache
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.csproj.CoreCompileInputs.cache
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.exe
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.pdb
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.loginForm.resources
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.regForm.resources
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.mainMenu.resources
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.csprojResolveAssemblyReference.cache
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.regCode.resources
+C:\Users\JYLPZM\source\repos\ExaminationSystem\ExamSys\obj\Release\ExamSys.examForm.resources
